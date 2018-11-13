@@ -1,0 +1,7 @@
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\bin\Debug\A2parasbajaniaP1.exe.config
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\bin\Debug\A2parasbajaniaP1.exe
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\bin\Debug\A2parasbajaniaP1.pdb
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\obj\Debug\A2parasbajaniaP1.csprojAssemblyReference.cache
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\obj\Debug\A2parasbajaniaP1.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\obj\Debug\A2parasbajaniaP1.exe
+C:\Users\Sahil\source\repos\A2parasbajaniaP1\A2parasbajaniaP1\obj\Debug\A2parasbajaniaP1.pdb
